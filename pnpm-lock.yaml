@@ -25,7 +25,7 @@ dependencies:
     specifier: ^7.0.3
     version: 7.0.3
   graphql:
-    specifier: ^16.8.1
+    specifier: ^16.9.0
     version: 16.9.0
   next:
     specifier: 15.0.0-canary.104
@@ -45,7 +45,7 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^20.14.9
+    specifier: ^20.14.15
     version: 20.14.15
   '@types/react':
     specifier: npm:types-react@19.0.0-rc.0
@@ -54,7 +54,7 @@ devDependencies:
     specifier: npm:types-react-dom@19.0.0-rc.0
     version: /types-react-dom@19.0.0-rc.0
   eslint:
-    specifier: ^8
+    specifier: ^8.57.0
     version: 8.57.0
   eslint-config-next:
     specifier: 15.0.0-canary.104
